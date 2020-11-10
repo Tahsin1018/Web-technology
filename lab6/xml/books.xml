@@ -1,0 +1,13 @@
+<books>
+  <book>
+    <fullname>Webtech</fullname>
+    <category>cse</category>
+    <desc>sdfdf</desc>
+	<edition>5th</edition>
+    <publisher>royal</publisher>
+    <isbn>aaa</isbn>
+    <pages>33</pages>
+    <price>350bdt</price>
+    <type>book</type>
+  </book>
+</books>
